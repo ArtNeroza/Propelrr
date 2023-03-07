@@ -1,0 +1,20 @@
+/* CSS */
+.editor-block-toolbar.block-editor-block-toolbar {
+	max-width: 100% !important;
+}
+
+.block-editor-block-list__layout.block-editor-block-list__block[data-align=acn-full] {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-block-acn-blocks-wrapper {
+	background: #eeeeee;
+	border: 1px dashed #03ddff;
+	color: #000;
+	margin: 0 auto;
+	max-width: 1920px;
+	padding: 2rem 45px;
+}
+
+.text-center { text-align: center; }
